@@ -1,4 +1,4 @@
-# formacao-engenheiro-de-dados
+# Formação Engenheiro de Dados
  Atividades do curso Formação Engenheiro de Dados do Prof. Fernando Amaral
 
 Uma VM Cloudera foi utilizada durante o curso.
